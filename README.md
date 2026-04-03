@@ -19,14 +19,18 @@ Tech Stack
 How to Run
 1. Clone the repository:
 git clone https://github.com/Vaibhavi564/Smart-File-Organizer.git
+
 2.Navigate to project folder:
 cd Smart-File-Organizer
+
 3.Run the application:
 python main.py
+
 ---
 Create EXE File
 python -m PyInstaller --onefile --windowed main.py
 ---
+
 Author
 Vaibhavi Singh
 
