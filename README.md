@@ -17,7 +17,7 @@ Tech Stack
 - shutil module
 ---
 How to Run
-1. Clone the repository:
+1.Clone the repository:
 git clone https://github.com/Vaibhavi564/Smart-File-Organizer.git
 
 2.Navigate to project folder:
